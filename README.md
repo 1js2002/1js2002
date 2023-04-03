@@ -22,7 +22,7 @@ A self-taught geek developer and builder in full-stack web development, open-sou
 <!-- HASHNODE_BLOG:START -->
 <p align="left">
 <a href="https://realblogs.hashnode.dev/automate-your-instagram-activity-a-step-by-step-guide-to-creating-a-bot-with-selenium-javascript" title="Instagram Bot"><img src="https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/fmqhTMu4IVU/upload/cc6658a008e3abc78584c2cf32fd269f.jpeg?w=1600&h=840&fit=crop&crop=entropy&auto=compress,format&format=webp" alt="Instagram bot" width="250px" align="left" /></a>
-<a href="https://vasantisuthar.hashnode.dev//mongodb-schema-design-best-practices" title="Instagram BOT"><strong>Instagram BOT</strong></a>
+<a href="https://realblogs.hashnode.dev/automate-your-instagram-activity-a-step-by-step-guide-to-creating-a-bot-with-selenium-javascript" title="Instagram BOT"><strong>Instagram BOT</strong></a>
 <br/> Instagram is one of the most popular social media platforms, with over a billion monthly active users. With such a large user base, it's no surprise that many people are interested in automating their Instagram accounts. One way to do this is by using a bot that can perform various actions on your behalf, such as....
  </p> <br/> <br/>
 <p align="left">
@@ -34,7 +34,7 @@ A self-taught geek developer and builder in full-stack web development, open-sou
 <!-- HASHNODE_BLOG:END -->
 
 
-### ✍️Random Dev Quote
+### ✍️Random BOT Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 
