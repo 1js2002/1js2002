@@ -30,6 +30,9 @@ A self-taught geek developer and builder in full-stack web development, open-sou
 <a href="https://realblogs.hashnode.dev/why-coding-is-so-hard" title="Why coding is so hard"><strong>Why coding is so hard</strong></a>
 <br/> In our increasingly digital world, coding has become an essential skill for many industries. From app development to website design, coding plays a critical role in creating the technology we use every day. However, mastering coding can be a difficult task, even for experienced programmers... </p> <br/> <br/>
 <p align="left">
+ <a href="https://realblogs.hashnode.dev/exploring-design-patterns-factory-builder-and-singleton-patterns" title="Software Desgin Patterns"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1681665324930/94463e2a-1466-48ce-bb74-1288a54f1df0.png?w=1600&h=840&fit=crop&crop=entropy&auto=compress,format&format=webp" alt="Design Patterns" width="250px" align="left" /></a>
+<a href="https://realblogs.hashnode.dev/exploring-design-patterns-factory-builder-and-singleton-patterns" title="Software Design Patterns"><strong>Software Design Patterns</strong></a>
+<br/> As a developer, you have probably encountered situations where you need to solve complex problems while also keeping your code organized, easy to maintain, and reusable. This is where design patterns come in - they are proven solutions to common problems that arise in software development. In this blog post... </p> <br/> <br/>
 
 <!-- HASHNODE_BLOG:END -->
 
