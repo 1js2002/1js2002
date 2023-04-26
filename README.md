@@ -21,12 +21,14 @@ A self-taught geek developer and builder in full-stack web development, open-sou
 <p align="left">
 <a href="https://realblogs.hashnode.dev/automate-your-instagram-activity-a-step-by-step-guide-to-creating-a-bot-with-selenium-javascript" title="Instagram Bot"><img src="https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/fmqhTMu4IVU/upload/cc6658a008e3abc78584c2cf32fd269f.jpeg?w=1600&h=840&fit=crop&crop=entropy&auto=compress,format&format=webp" alt="Instagram bot" width="250px" align="left" /></a>
 <a href="https://realblogs.hashnode.dev/automate-your-instagram-activity-a-step-by-step-guide-to-creating-a-bot-with-selenium-javascript" title="Instagram BOT"><strong>Instagram BOT</strong></a>
-<br/> Instagram is one of the most popular social media platforms, with over a billion monthly active users. With such a large user base, it's no surprise that many people are interested in automating their Instagram accounts. One way to do this is by using a bot that can perform various actions on your behalf, such as....
+<br/> The key components of Kubernetes, including API server, Controller manager, Kube-proxy, etc. We will discuss what each component does, how it relates to other components, and how you can use them to build and manage containerized applications efficiently...
  </p> <br/> <br/>
  <p align="left">
- <a href="https://realblogs.hashnode.dev/understanding-kubernetes-components-api-server-kubelet-and-more" title="Software Desgin Patterns"><img src"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeX1gTNbaYCtOCscBxSSswVVGKEQ1qJBc2fw&usqp=CAU" alt=ku" width="250px" align="left" /></a>
-<a href="https://realblogs.hashnode.dev/understanding-kubernetes-components-api-server-kubelet-and-more" title="Understanding Kubernetes Components"><strong>Understanding Kubernetes Components</strong></a>
-<br/> As a developer, you have probably encountered situations where you need to solve complex problems while also keeping your code organized, easy to maintain, and reusable. This is where design patterns come in - they are proven solutions to common problems that arise in software development. In this blog post... </p> <br/> <br/>
+<a href="https://realblogs.hashnode.dev/understanding-kubernetes-components-api-server-kubelet-and-more" title="Instagram Bot"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeX1gTNbaYCtOCscBxSSswVVGKEQ1qJBc2fw&usqp=CAU" alt="Instagram bot" width="250px" align="left" /></a>
+<a href="https://realblogs.hashnode.dev/understanding-kubernetes-components-api-server-kubelet-and-more" title="Understanding Kubernetes Components"><strong>KUB</strong></a>
+<br/> Instagram is one of the most popular social media platforms, with over a billion monthly active users. With such a large user base, it's no surprise that many people are interested in automating their Instagram accounts. One way to do this is by using a bot that can perform various actions on your behalf, such as....
+ </p> <br/> <br/>
+
  <p align="left">
  <a href="https://realblogs.hashnode.dev/exploring-design-patterns-factory-builder-and-singleton-patterns" title="Software Desgin Patterns"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1681665324930/94463e2a-1466-48ce-bb74-1288a54f1df0.png?w=1600&h=840&fit=crop&crop=entropy&auto=compress,format&format=webp" alt="Design Patterns" width="250px" align="left" /></a>
 <a href="https://realblogs.hashnode.dev/exploring-design-patterns-factory-builder-and-singleton-patterns" title="Software Design Patterns"><strong>Software Design Patterns</strong></a>
