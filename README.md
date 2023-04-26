@@ -19,7 +19,7 @@ A self-taught geek developer and builder in full-stack web development, open-sou
 # Latest Blog Posts 👇
 <!-- HASHNODE_BLOG:START -->
 <p align="left">
- <a href="https://realblogs.hashnode.dev/understanding-kubernetes-components-api-server-kubelet-and-more" title="Software Desgin Patterns"><img src"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeX1gTNbaYCtOCscBxSSswVVGKEQ1qJBc2fw&usqp=CAU" alt="Understanding Kubernetes Components" width="250px" align="left" /></a>
+ <a href="https://realblogs.hashnode.dev/understanding-kubernetes-components-api-server-kubelet-and-more" title="Software Desgin Patterns"><img src"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeX1gTNbaYCtOCscBxSSswVVGKEQ1qJBc2fw&usqp=CAU" alt=ku" width="250px" align="left" /></a>
 <a href="https://realblogs.hashnode.dev/understanding-kubernetes-components-api-server-kubelet-and-more" title="Understanding Kubernetes Components"><strong>Understanding Kubernetes Components</strong></a>
 <br/> As a developer, you have probably encountered situations where you need to solve complex problems while also keeping your code organized, easy to maintain, and reusable. This is where design patterns come in - they are proven solutions to common problems that arise in software development. In this blog post... </p> <br/> <br/>
 <p align="left">
