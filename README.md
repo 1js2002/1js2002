@@ -24,9 +24,9 @@ A self-taught geek developer and builder in full-stack web development, open-sou
 <br/> The key components of Kubernetes, including API server, Controller manager, Kube-proxy, etc. We will discuss what each component does, how it relates to other components, and how you can use them to build and manage containerized applications efficiently...
  </p> <br/> <br/>
  <p align="left">
-<a href="https://realblogs.hashnode.dev/understanding-kubernetes-components-api-server-kubelet-and-more" title="Instagram Bot"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeX1gTNbaYCtOCscBxSSswVVGKEQ1qJBc2fw&usqp=CAU" alt="Instagram bot" width="250px" align="left" /></a>
-<a href="https://realblogs.hashnode.dev/understanding-kubernetes-components-api-server-kubelet-and-more" title="Understanding Kubernetes Components"><strong>KUB</strong></a>
-<br/> Instagram is one of the most popular social media platforms, with over a billion monthly active users. With such a large user base, it's no surprise that many people are interested in automating their Instagram accounts. One way to do this is by using a bot that can perform various actions on your behalf, such as....
+<a href="https://realblogs.hashnode.dev/understanding-kubernetes-components-api-server-kubelet-and-more" title="Understanding Kubernetes Components"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1682148147096/8e6622b1-774e-4971-8718-adc34d2582a0.png?w=1600&h=840&fit=crop&crop=entropy&auto=compress,format&format=webp" alt="Instagram bot" width="250px" align="left" /></a>
+<a href="https://realblogs.hashnode.dev/understanding-kubernetes-components-api-server-kubelet-and-more" title="Understanding Kubernetes Components"><strong>Understanding Kubernetes Components</strong></a>
+<br/> The key components of Kubernetes, including API server, Controller manager, Kube-proxy, etc. We will discuss what each component does, how it relates to other components, and how you can use them to build and manage containerized applications efficiently...
  </p> <br/> <br/>
 
  <p align="left">
