@@ -19,8 +19,8 @@ A self-taught geek developer and builder in full-stack web development, open-sou
 # Latest Blog Posts 👇
 <!-- HASHNODE_BLOG:START -->
 <p align="left">
-<a href="https://realblogs.hashnode.dev/automate-your-instagram-activity-a-step-by-step-guide-to-creating-a-bot-with-selenium-javascript" title="Instagram Bot"><img src="https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/fmqhTMu4IVU/upload/cc6658a008e3abc78584c2cf32fd269f.jpeg?w=1600&h=840&fit=crop&crop=entropy&auto=compress,format&format=webp" alt="Instagram bot" width="250px" align="left" /></a>
-<a href="https://realblogs.hashnode.dev/automate-your-instagram-activity-a-step-by-step-guide-to-creating-a-bot-with-selenium-javascript" title="Instagram BOT"><strong>Instagram BOT</strong></a>
+<a href="https://realblogs.hashnode.dev/automate-your-instagram-activity-a-step-by-step-guide-to-creating-a-bot-with-selenium-javascript" title="Instagram Bot"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1682148147096/8e6622b1-774e-4971-8718-adc34d2582a0.png?w=1600&h=840&fit=crop&crop=entropy&auto=compress,format&format=webp" alt="Instagram bot" width="250px" align="left" /></a>
+<a href="https://realblogs.hashnode.dev/automate-your-instagram-activity-a-step-by-step-guide-to-creating-a-bot-with-selenium-javascript" title=" Understanding Kubernetes Components"><strong>Understanding Kubernetes Components</strong></a>
 <br/> The key components of Kubernetes, including API server, Controller manager, Kube-proxy, etc. We will discuss what each component does, how it relates to other components, and how you can use them to build and manage containerized applications efficiently...
  </p> <br/> <br/>
  <p align="left">
