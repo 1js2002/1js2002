@@ -4,7 +4,6 @@ A self-taught geek developer and builder in full-stack web development, open-sou
 # 💫About Me :
 - :seedling: I am currently learning DevOps and Fullstack.
 - :earth_africa:		 I like to contribute to open source and explore github.
-- :handshake: If you want any collaboration feel free to mail me at dgoud99120@gmail.com.
 - :v: I'm open to opportunities.
 
 
