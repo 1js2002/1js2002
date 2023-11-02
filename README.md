@@ -8,7 +8,7 @@ A self-taught geek developer and builder in full-stack web development, open-sou
 
 
 ## 🌐Socials
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/dineuwush__07) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dinesh-goud-b-610283251/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/1js2002)  [![Showwcase](https://img.shields.io/badge/Showwcase-%231DA1F2.svg?logoColor=black)](https://www.showwcase.com/dgoud99120478) [![Hashnode](https://img.shields.io/badge/Hashnode-%231DA1F2.svg?logoColor=black)](https://realblogs.hashnode.dev/) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/dineuwush__07) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dinesh-goud-b-610283251/) [![Showwcase](https://img.shields.io/badge/Showwcase-%231DA1F2.svg?logoColor=black)](https://www.showwcase.com/dgoud99120478) [![Hashnode](https://img.shields.io/badge/Hashnode-%231DA1F2.svg?logoColor=black)](https://realblogs.hashnode.dev/) 
 
 
 
