@@ -1,4 +1,5 @@
 # :wave: Hello <b>developers</b>, I am <b>Dinesh</b>
+ Software Engineer specializing in .NET development | Skilled in React, ASP.NET Core, and Azure DevOps
 # 💫About Me :
 - :seedling: I am currently learning DevOps. 
 
